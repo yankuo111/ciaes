@@ -1,0 +1,1 @@
+import{_ as e,s as t,o as s,l as _}from"./index.8c5864de.js";const a=t({name:"ChatTest",setup(){}});function o(n,r,c,p,d,u){return s(),_("div")}var i=e(a,[["render",o],["__scopeId","data-v-45d156c6"]]);export{i as default};

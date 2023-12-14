@@ -1,0 +1,7 @@
+flask_socketio==3.0.2
+python-engineio==3.13.2
+python-socketio==4.2.0
+Flask==1.1.4
+Jinja2==2.11.2
+Werkzeug==1.0.1
+click

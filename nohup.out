@@ -1,0 +1,63 @@
+Explicitly passing a `revision` is encouraged when loading a model with custom code to ensure no malicious code has been contributed in a newer revision.
+Explicitly passing a `revision` is encouraged when loading a configuration with custom code to ensure no malicious code has been contributed in a newer revision.
+Explicitly passing a `revision` is encouraged when loading a model with custom code to ensure no malicious code has been contributed in a newer revision.
+No compiled kernel found.
+Compiling kernels : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c
+Compiling gcc -O3 -fPIC -pthread -fopenmp -std=c99 /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c -shared -o /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Kernels compiled : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Load kernel : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Setting CPU quantization kernel threads to 4
+Using quantization cache
+Applying quantization to glm layers
+GPU memory: 11.55 GB
+Choosing precision int8 according to your VRAM. If you want to decide precision yourself, please add argument --precision when launching the application.
+No compiled kernel found.
+Compiling kernels : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c
+Compiling gcc -O3 -fPIC -pthread -fopenmp -std=c99 /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c -shared -o /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Kernels compiled : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Load kernel : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Setting CPU quantization kernel threads to 4
+ * Serving Flask app 'app.createApp'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6002
+ * Running on http://112.50.93.210:6002
+[33mPress CTRL+C to quit[0m
+[2023-11-14 22:07:12,847] INFO in createApp: verify.verifyPassword
+127.0.0.1 - - [14/Nov/2023 22:07:12] "POST //verify/verifyPassword HTTP/1.1" 200 -
+[2023-11-14 22:07:30,314] INFO in createApp: verify.verifyPassword
+127.0.0.1 - - [14/Nov/2023 22:07:30] "POST //verify/verifyPassword HTTP/1.1" 200 -
+[2023-11-14 22:08:34,437] INFO in createApp: verify.verifyPassword
+127.0.0.1 - - [14/Nov/2023 22:08:34] "POST //verify/verifyPassword HTTP/1.1" 200 -
+89.248.165.186 - - [15/Nov/2023 01:54:51] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+89.248.165.186 - - [15/Nov/2023 01:54:51] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+Explicitly passing a `revision` is encouraged when loading a model with custom code to ensure no malicious code has been contributed in a newer revision.
+Explicitly passing a `revision` is encouraged when loading a configuration with custom code to ensure no malicious code has been contributed in a newer revision.
+Explicitly passing a `revision` is encouraged when loading a model with custom code to ensure no malicious code has been contributed in a newer revision.
+No compiled kernel found.
+Compiling kernels : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c
+Compiling gcc -O3 -fPIC -pthread -fopenmp -std=c99 /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c -shared -o /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Kernels compiled : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Load kernel : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Setting CPU quantization kernel threads to 4
+Using quantization cache
+Applying quantization to glm layers
+GPU memory: 11.55 GB
+Choosing precision int8 according to your VRAM. If you want to decide precision yourself, please add argument --precision when launching the application.
+No compiled kernel found.
+Compiling kernels : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c
+Compiling gcc -O3 -fPIC -pthread -fopenmp -std=c99 /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.c -shared -o /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Kernels compiled : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Load kernel : /root/.cache/huggingface/modules/transformers_modules/chatglm-6b-int4-qe/quantization_kernels_parallel.so
+Setting CPU quantization kernel threads to 4
+ * Serving Flask app 'app.createApp'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6002
+ * Running on http://112.50.93.210:6002
+[33mPress CTRL+C to quit[0m
+[2023-11-15 08:41:23,265] INFO in createApp: verify.verifyPassword
+127.0.0.1 - - [15/Nov/2023 08:41:23] "POST //verify/verifyPassword HTTP/1.1" 200 -
+CUDA_VISIBLE_DEVICES=0 nohup python -u application.py >> ./cache/logs/server.log &

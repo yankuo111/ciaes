@@ -1,0 +1,1 @@
+import{_ as e,x as _}from"./index.8c5864de.js";import"./index.72a4dedb.js";import{C as r}from"./index.8ebbac1f.js";const t={};function a(o,n){return r,_("",!0)}var f=e(t,[["render",a],["__scopeId","data-v-672b9af9"]]);export{f as default};

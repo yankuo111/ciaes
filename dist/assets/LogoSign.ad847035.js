@@ -1,0 +1,1 @@
+import{_ as e,o as _,l as o}from"./index.8c5864de.js";const c={},n={class:"company flex flex_center"};function t(a,r){return _(),o("div",n)}var l=e(c,[["render",t],["__scopeId","data-v-356f336a"]]);export{l as L};
